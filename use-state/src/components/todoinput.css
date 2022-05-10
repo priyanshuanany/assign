@@ -1,0 +1,18 @@
+.inputclass{
+    width: 30%;
+    height: 50px;
+    margin: auto;
+    padding: 10px;
+   
+}
+.todoinput{
+    width: 70%;
+    height: 100%;
+    border: 2px solid black;
+}
+.todobtn{
+    width: 20%;
+    height: 100%;
+    background-color: black;
+    color: white;
+}
